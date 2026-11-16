@@ -1,5 +1,5 @@
 # Household Inventory Mobile App
-## Mobile App Development Course Final Project
+**Mobile App Development Course Final Project**  
 **Members: Andrew Moran, Jiyu He, Kabila Williams, Steve Chen**
 
 ## 1. Purpose  
